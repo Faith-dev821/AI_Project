@@ -1,0 +1,153 @@
+{
+  "user_id": "edge_test_user",
+  "emotion_history": [
+    {
+      "emotion_type": "neutral",
+      "intensity": 0.3,
+      "confidence": 0.85,
+      "timestamp": "2026-05-20T16:42:31.392265"
+    },
+    {
+      "emotion_type": "neutral",
+      "intensity": 0.3,
+      "confidence": 0.85,
+      "timestamp": "2026-05-20T16:42:31.392336"
+    },
+    {
+      "emotion_type": "neutral",
+      "intensity": 0.3,
+      "confidence": 0.85,
+      "timestamp": "2026-05-20T16:42:31.392463"
+    }
+  ],
+  "conversation_history": [
+    {
+      "user_input": "测试输入 1",
+      "emotion_type": "neutral",
+      "emotion_intensity": 0.3,
+      "timestamp": "2026-05-20T16:42:31.392264",
+      "decision": {
+        "selected_egg": null,
+        "response": null,
+        "triggers": [],
+        "safety_breaches": [],
+        "style": "mixed",
+        "emotion_summary": {
+          "current_emotion": "neutral",
+          "current_intensity": 0.3,
+          "trend": "stable",
+          "volatility": 0.0,
+          "is_inconsistent": false,
+          "is_crisis": false,
+          "conflict_count": 0
+        },
+        "context_summary": {
+          "detected_stressors": [],
+          "dominant_topic": "work_stress",
+          "topic_confidence": 0.0,
+          "special_period": null,
+          "conversation_count": 1
+        },
+        "profile_summary": {
+          "user_id": "edge_test_user",
+          "total_interactions": 1,
+          "mood_trend": "insufficient_data",
+          "emotion_statistics": {
+            "neutral": 1.0
+          },
+          "top_stressors": [],
+          "preferred_style": "mixed",
+          "style_coefficient": 0.5,
+          "low_mood_duration": 0,
+          "last_update": "2026-05-20T16:42:31.392299"
+        }
+      }
+    },
+    {
+      "user_input": "测试输入 2",
+      "emotion_type": "neutral",
+      "emotion_intensity": 0.3,
+      "timestamp": "2026-05-20T16:42:31.392334",
+      "decision": {
+        "selected_egg": null,
+        "response": null,
+        "triggers": [],
+        "safety_breaches": [],
+        "style": "mixed",
+        "emotion_summary": {
+          "current_emotion": "neutral",
+          "current_intensity": 0.30000000000000004,
+          "trend": "stable",
+          "volatility": 0.0,
+          "is_inconsistent": false,
+          "is_crisis": false,
+          "conflict_count": 0
+        },
+        "context_summary": {
+          "detected_stressors": [],
+          "dominant_topic": "work_stress",
+          "topic_confidence": 0.0,
+          "special_period": null,
+          "conversation_count": 2
+        },
+        "profile_summary": {
+          "user_id": "edge_test_user",
+          "total_interactions": 2,
+          "mood_trend": "insufficient_data",
+          "emotion_statistics": {
+            "neutral": 1.0
+          },
+          "top_stressors": [],
+          "preferred_style": "mixed",
+          "style_coefficient": 0.5,
+          "low_mood_duration": 0,
+          "last_update": "2026-05-20T16:42:31.392425"
+        }
+      }
+    },
+    {
+      "user_input": "测试输入 3",
+      "emotion_type": "neutral",
+      "emotion_intensity": 0.3,
+      "timestamp": "2026-05-20T16:42:31.392462",
+      "decision": {
+        "selected_egg": null,
+        "response": null,
+        "triggers": [],
+        "safety_breaches": [],
+        "style": "mixed",
+        "emotion_summary": {
+          "current_emotion": "neutral",
+          "current_intensity": 0.3,
+          "trend": "stable",
+          "volatility": 0.0,
+          "is_inconsistent": false,
+          "is_crisis": false,
+          "conflict_count": 0
+        },
+        "context_summary": {
+          "detected_stressors": [],
+          "dominant_topic": "work_stress",
+          "topic_confidence": 0.0,
+          "special_period": null,
+          "conversation_count": 3
+        },
+        "profile_summary": {
+          "user_id": "edge_test_user",
+          "total_interactions": 3,
+          "mood_trend": "insufficient_data",
+          "emotion_statistics": {
+            "neutral": 1.0
+          },
+          "top_stressors": [],
+          "preferred_style": "mixed",
+          "style_coefficient": 0.5,
+          "low_mood_duration": 0,
+          "last_update": "2026-05-20T16:42:31.392550"
+        }
+      }
+    }
+  ],
+  "last_process_time": "2026-05-20T16:42:31.392462",
+  "saved_at": "2026-05-20T16:42:31.392599"
+}

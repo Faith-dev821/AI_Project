@@ -1,0 +1,20 @@
+{
+  "emotion_distribution": {
+    "anxious": 14,
+    "angry": 5,
+    "fearful": 4
+  },
+  "stressor_frequency": {
+    "deadline": 5,
+    "overload": 4
+  },
+  "preferred_style": "mixed",
+  "style_scores": {
+    "gentle": 0.5,
+    "sarcastic": 0.5
+  },
+  "total_interactions": 23,
+  "positive_interactions": 0,
+  "negative_interactions": 23,
+  "last_update": "2026-05-20T16:42:31.389641"
+}
